@@ -1,0 +1,6 @@
+# Windows:
+*.xlsx
+db.lock
+node_modules
+dist
+.umi
